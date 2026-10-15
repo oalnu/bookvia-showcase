@@ -8,7 +8,7 @@ The aim is to replace the handoff between a social profile, messages, a calendar
 
 **Product showcase · Private-source application · Prelaunch development**
 
-[Screenshot gallery](docs/gallery.md) · [Feature catalogue](docs/features.md) · [Demo profiles](docs/demo-profiles.md) · [Roadmap](docs/roadmap.md) · [Technical overview](docs/technical-overview.md)
+[Provider workspace](docs/provider-workspace.md) · [Screenshot gallery](docs/gallery.md) · [Feature catalogue](docs/features.md) · [Demo profiles](docs/demo-profiles.md) · [Roadmap](docs/roadmap.md) · [Technical overview](docs/technical-overview.md)
 
 ![Amelia coaching demo: branded public profile](assets/screenshots/coaching-profile-desktop.jpg)
 
@@ -25,6 +25,14 @@ The aim is to replace the handoff between a social profile, messages, a calendar
 | Connect payment and business settings | Receive booking and payment information where supported by the configured flow |
 
 The current focus is solo providers and small practices, with coaching and personal training used as demonstration scenarios. These examples illustrate the product; they do not establish a validated customer segment.
+
+## Inside the provider workspace
+
+Amelia’s populated demo account connects the daily dashboard with weekly and monthly calendars, upcoming bookings, client history, service configuration and availability.
+
+![Amelia’s daily dashboard with fictional appointments and amounts](assets/screenshots/amelia-dashboard-overview.jpg)
+
+[Explore 13 workspace captures](docs/provider-workspace.md), including client records, service settings, payment records and page-editor previews. All figures are illustrative; payment processing and editor saving are not established by these screenshots.
 
 ## Two different businesses, one platform
 

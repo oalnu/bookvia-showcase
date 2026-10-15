@@ -21,6 +21,8 @@ The page groups offers by need, explains session benefits, introduces the provid
 
 <img src="../assets/screenshots/coaching-profile-mobile.jpg" alt="Amelia mobile demo profile" width="300">
 
+[See Amelia’s provider workspace](provider-workspace.md) for the dashboard, calendar, client records and service configuration behind this public page.
+
 ## Northform Performance — strength coaching
 
 A darker, photographic treatment for in-person assessments, personal coaching and online check-ins.

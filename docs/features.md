@@ -9,7 +9,7 @@ Snapshot: 15 October 2026. This is a product inventory, not a claim that every i
 | Capability | Purpose and scope | Status |
 | --- | --- | --- |
 | Provider page | Branded identity, introduction, imagery, experience and calls to action | Demonstrated on coaching and fitness profiles |
-| Visual customisation | Different themes, colours, typography and page treatments | Different public treatments demonstrated; editor implementation inspected |
+| Visual customisation | Different themes, colours, typography and page treatments | Public treatments and editor preview demonstrated; editor save failure observed |
 | Service catalogue | Names, descriptions, prices, durations, delivery methods and service categories | Demonstrated |
 | Free and paid offers | Discovery calls alongside priced appointments | Display demonstrated; paid processing is separate |
 | Service benefits and preparation | Explain the session and what the client should expect | Demonstrated in coaching catalogue |
@@ -28,13 +28,14 @@ Snapshot: 15 October 2026. This is a product inventory, not a claim that every i
 | Capability | Purpose and scope | Status |
 | --- | --- | --- |
 | Signup and onboarding | Establish provider identity, business information and the first service | Implemented; service-step captures included from prior development |
-| Page editor | Edit profile, page content, services and visual presentation with a preview | Implemented; source surface inspected |
-| Service management | Create and edit service offers, prices and durations | Implemented; published output demonstrated |
-| Availability | Define the times clients can request | Implemented; resulting public slots demonstrated |
-| Calendar | Day/week/month appointment views and service colours | Implemented; a prior synthetic-data component capture is included |
-| Booking management | Upcoming/past appointments and booking actions | Implemented; authenticated workspace not recaptured here |
-| Client management | Provider client records and associated booking context | Implemented; no real client data included |
-| Payments | Connect onboarding, transaction/payout-related surfaces and payment status | Implemented; live processing/payout verification not claimed |
+| Daily dashboard | Today’s appointments, quick actions and a revenue summary | Demonstrated with illustrative data |
+| Page editor | Edit profile, page content, services and visual presentation with a preview | Preview and design/content controls demonstrated; save failure observed, publishing unverified |
+| Service management | Create and edit service offers, prices and durations | Catalogue and edit dialog demonstrated; changes not submitted |
+| Availability | Define the times clients can request | Working-hours, time-off and booking-window controls demonstrated; changes not submitted |
+| Calendar | Day/week/month appointment views and service colours | Authenticated weekly/monthly views demonstrated with seeded appointments |
+| Booking management | Upcoming/past appointments and booking actions | Upcoming list demonstrated; booking actions not exercised |
+| Client management | Provider client records and associated booking context | Directory, profile and booking history demonstrated with fictional records |
+| Payments | Connect onboarding, transaction/payout-related surfaces and payment status | Transaction list demonstrated with seeded statuses; demo Stripe account not connected |
 | Account and business settings | Profile, business, booking rules, notifications, security and billing settings | Implemented; not all settings individually verified here |
 | Transactional communication | Booking/payment emails and background work | Implemented; delivery is environment-dependent |
 | Free/Pro subscription model | Provider entitlements and billing surfaces | Implemented direction; prices/limits are not promised in this showcase |

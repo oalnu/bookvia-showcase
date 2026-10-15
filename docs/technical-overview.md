@@ -37,7 +37,7 @@ The important engineering objective is agreement across them: an available-looki
 
 ## Evidence in this repository
 
-Fresh local captures demonstrate public profile rendering, service selection, available future slots, the empty details form and FAQ interaction. Historical onboarding and calendar component captures are labelled separately. No live payment was initiated and no booking was submitted during capture.
+Fresh local captures demonstrate public profile rendering, service selection, available future slots, the empty details form and FAQ interaction. Authenticated captures also demonstrate Amelia’s daily dashboard, weekly/monthly calendars, bookings, client records, service settings, availability and payment list. Page-editor previews retain an observed save failure; persistence and publishing were not verified. Historical onboarding and calendar component captures are labelled separately. No live payment was initiated and no booking was submitted during capture.
 
 The private project contains unit/integration and browser tests, but those sources and logs are not published here. This showcase does not claim a current passing full-suite count, audited security, service availability, regulatory certification or independent reproduction of the platform.
 

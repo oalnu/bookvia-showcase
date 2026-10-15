@@ -1,10 +1,14 @@
 # Screenshot gallery
 
-Fifteen actual application captures. All provider/client content, ratings, testimonials, counts and amounts are illustrative. These are product demonstrations, not customer or revenue evidence.
+Twenty-eight actual application captures across the public pages and provider workspace. All provider/client content, ratings, testimonials, counts and amounts are illustrative. These are product demonstrations, not customer or revenue evidence.
 
-Twelve captures are from the local application on 15 October 2026. Three are earlier development captures, labelled below. No fresh booking or payment was submitted.
+Twenty-five captures are from the local application on 15 October 2026. Three are earlier development captures, labelled below. No fresh booking or payment was submitted.
 
 [Product overview](../README.md) · [Demo providers](demo-profiles.md) · [Feature status](features.md) · [Provenance and rights](rights-and-provenance.md)
+
+## Authenticated provider workspace
+
+[Explore 13 Amelia workspace captures](provider-workspace.md): daily dashboard, weekly/monthly calendars, bookings, clients and history, services, availability, payment records and editor previews. The editor previews retain an observed save failure and are labelled accordingly.
 
 ## Provider profiles
 
